@@ -1,0 +1,20 @@
+.title, .link, .core, .desc {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.pict {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 350px;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+ol {
+    list-style-position: inside;
+}
