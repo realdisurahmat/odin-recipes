@@ -13,8 +13,10 @@
 
 ul {
     list-style-position: inside;
+    list-style-type: none;
 }
 
 ol {
     list-style-position: inside;
+    list-style-type: none;
 }
